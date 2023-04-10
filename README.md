@@ -1,2 +1,2 @@
-# Object-Oriented-Programming-2
-Example exercises for course Object-Oriented Programming 2
+# Object-Oriented-Programming-examples
+Project for course Object-Oriented Programming 2
